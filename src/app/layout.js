@@ -10,11 +10,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link href="https://nextjs-test.research-flow.in/" hreflang="x-default" rel="alternate">
-        <link href="https://gu.nextjs-test.research-flow.in/" hreflang="gu" rel="alternate">
-        <link href="https://cs.nextjs-test.research-flow.in/" hreflang="cs" rel="alternate">
-        <link href="https://kn.nextjs-test.research-flow.in/" hreflang="kn" rel="alternate">
-        <script src="https://script-cdn.multilipi.com/static/JS/page_translations.js" multilipi-key="337f8db8-19f4-44e3-a6a3-ab3c76dcd060" mode="auto" data-pos-x="50" data-pos-y="50" crossorigin="anonymous" defer></script>
+        <link href="https://nextjs-test.research-flow.in/" hrefLang="x-default" rel="alternate" />
+        <link href="https://bg.nextjs-test.research-flow.in/" hrefLang="bg" rel="alternate" />
+        <link href="https://nl.nextjs-test.research-flow.in/" hrefLang="nl" rel="alternate" />
+        <link href="https://ka.nextjs-test.research-flow.in/" hrefLang="ka" rel="alternate" />
+        <script src="https://script-cdn.multilipi.com/static/JS/page_translations.js" multilipi-key="5d5b2453-9dab-4aba-ac34-4e100d837a5e" mode="auto" data-pos-x="50" data-pos-y="50" crossOrigin="anonymous" defer></script>
       </head>
       <body>
         <nav className="navbar">
